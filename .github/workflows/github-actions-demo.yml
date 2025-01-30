@@ -17,5 +17,5 @@ jobs:
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
 
-      - name: premakumari.sathiamurthy@straive.com
+      - name: premakmba@gmail.com
       -  run: echo "Hello, world!"
